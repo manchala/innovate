@@ -1,0 +1,155 @@
+html, body {height: 100%; 
+	
+	font-family: "Myriad Pro", "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+
+}
+/*body{opacity:0;}*/
+a {outline:none;}
+
+
+
+
+#header
+{
+	width:1300px;
+	height: 98px;
+	margin:0 auto;
+	display:block;	
+}
+
+.headerHome{
+	background:url(../media/640/header.png);
+	background-repeat:no-repeat;
+}
+
+.headerDay1{
+	background:url(../media/640/header_day1.png);
+	background-repeat:no-repeat;
+}
+
+.headerDay2{
+	background:url(../media/645/header_day2.png);
+	background-repeat:no-repeat;
+}
+
+.headerDay3{
+	background:url(../media/660/header_day3.png);
+	background-repeat:no-repeat;
+}
+
+	
+	
+#footer{
+	background:url(../media/486/footer.png);
+	background-repeat:no-repeat;
+	width:1300px;
+	height:86px;
+	margin: 0 auto 0 auto;
+	display: block;
+}
+
+#topBar{
+	margin:	30px auto 10px auto;
+	text-align:center;
+}
+
+.bar{
+	margin:	10px auto;
+	text-align:center;
+}
+
+#content{
+	width:1300px;
+	margin:0 auto;
+	display: block;
+	clear:both;
+}
+
+.homeColumn{
+	width:387px;
+	margin: 5px 22px;
+	float: left;
+	}
+
+.homeImage{
+	margin:0 0 15px 0;
+}
+
+.homeContentBlock{
+	margin-bottom: 25px;	
+}
+
+.homeContentBlock a {
+	text-decoration: none;
+}
+
+.homeContentBlockTop{
+	background-color:#000;
+	height:110px;
+	color: #FFF;
+	padding:10px;
+}
+
+.homeContentBlockBottom{
+	background-color:#FFF;
+	
+	color: #000;
+	padding: 10px;
+	font-size: 22px;
+	font-weight: 200
+	
+}
+
+.homeContentBlockBottom ul {
+
+	list-style-type: disc;
+	padding: 0px;
+	margin: 0 0 0 17px;
+}
+
+.homeContentBlockBottom ul li {
+
+	margin-bottom: 10px;
+}
+
+
+
+.homeHeadline
+{
+	font-size: 45px;
+	font-weight: 600;
+	margin-bottom:11px;
+}
+
+.homeSubhead{
+	font-size: 22px;
+	font-weight: 600
+	}
+
+.dayLabel{
+ 	margin:0 30px 0 30px;
+	padding: 0 0 5px 0;
+	display:none;
+}
+
+.tagline{
+	margin:0 30px;
+	padding-bottom:20px;
+	}
+
+.nav {
+	border: none;
+	float:left;
+	height:81px;
+	width:143px;		
+}
+
+
+
+
+
+
+
+
+
+/* EDITOR PROPERTIES - PLEASE DON'T DELETE THIS LINE TO AVOID DUPLICATE PROPERTIES */
